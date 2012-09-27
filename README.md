@@ -11,7 +11,7 @@ school reports with centrally stored data, which are compiled to beautiful PDF d
 Currently only school reports for international schools following the IB PYP are supported but the
 modular project design aims to allow it to be used at any school.
 
-This is an open-source project licensed under GPL-v3, please feel free to join in the fun!
+This is an open-source project licensed under the EPL please feel free to join in the fun!
 
 Links
 =====
