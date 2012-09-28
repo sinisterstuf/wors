@@ -12,9 +12,3 @@ Currently only school reports for international schools following the IB PYP are
 modular project design aims to allow it to be used at any school.
 
 This is an open-source project licensed under the EPL please feel free to join in the fun!
-
-Links
-=====
-
-Project Wiki: http://projects.sinisterstuf.org/wrs/
-Bug Tracker: http://projects.sinisterstuf.org/bugtracker/
