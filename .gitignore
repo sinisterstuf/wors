@@ -1,10 +1,7 @@
+# Compiled Java classes #
 *.class
 
 # Package Files #
 *.jar
 *.war
 *.ear
-
-# Eclipse IDE Config Files #
-.project
-.settings
